@@ -2,7 +2,8 @@
 - 👀 I’m interested in Science, Technology, Engineering, and Math
 - 🌱 I’m currently learning computer engineering
 
-###check my previous work at https://nurmayadifitra.wordpress.com/
+
+check my previous work at https://nurmayadifitra.wordpress.com/
 
 <!---
 fitranurmayadi/fitranurmayadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
