@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fitranurmayadi
-- 👀 I’m interested in Science, Technology, Engineering, and Math
+- 👀 I’m interested in Science and Technology
 - 🌱 I’m currently learning computer engineering
 
 
